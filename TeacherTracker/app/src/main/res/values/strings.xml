@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">TeacherTracker</string>
     <string name="title_activity_teacher">Teacher</string>
+    <string name="timetable">timetable</string>
 </resources>
